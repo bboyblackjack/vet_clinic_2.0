@@ -8,7 +8,7 @@ using DataModel;
 
 namespace DataAccess
 {
-    public class UserRepository: IRepository<User>
+    public class UserRepository : IRepository<User>
     {
         DataContext db;
 

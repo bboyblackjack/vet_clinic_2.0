@@ -16,4 +16,21 @@ C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataModel\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+<<<<<<< HEAD
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+=======
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataModel\obj\Debug\DataModel.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataModel\obj\Debug\DataModel.pdb
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataModel\bin\Debug\DataModel.dll.config
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataModel\bin\Debug\DataModel.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataModel\bin\Debug\DataModel.pdb
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataModel\bin\Debug\EntityFramework.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataModel\bin\Debug\EntityFramework.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+>>>>>>> a5b000d4d65ff1ffc3e2fb6c4c8a6e1a40aa3b1c
