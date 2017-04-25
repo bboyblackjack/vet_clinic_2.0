@@ -4,10 +4,12 @@ using System.Linq;
 using System.Web;
 using System.Security.Claims;
 using System.Threading.Tasks;
+using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.EntityFramework;
 
 namespace DataModel
 {
-    public class User
+    public class User : IdentityUser
     {
         public int UserId { get; set; }
         public string FirstName { get; set; }
@@ -32,6 +34,14 @@ namespace DataModel
             Applications = new List<Application>();
             Pets = new List<Pet>();
             Records = new List<Record>();
+        }
+
+        public async Task<ClaimsIdentity> GenerateUserIdentityAsync(UserManager<User> manager)
+        {
+            // Обратите внимание, что authenticationType должен совпадать с типом, определенным в CookieAuthenticationOptions.AuthenticationType
+            var userIdentity = await manager.CreateIdentityAsync(this, DefaultAuthenticationTypes.ApplicationCookie);
+            // Здесь добавьте утверждения пользователя
+            return userIdentity;
         }
     }
 }

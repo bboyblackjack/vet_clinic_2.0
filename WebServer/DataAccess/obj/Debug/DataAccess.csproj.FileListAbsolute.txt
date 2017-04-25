@@ -10,3 +10,19 @@ D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. С�
 D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
 D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataAccess\obj\Debug\DataAccess.dll
 D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\bin\Debug\DataModel.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\bin\Debug\DataModel.pdb
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
