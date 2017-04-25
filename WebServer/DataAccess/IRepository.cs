@@ -12,8 +12,8 @@ namespace DataAccess
     {
         T GetById(int id);
         List<T> GetAll();
-        //void Add(T element);
-        //void Remove(int id);
-        //void Update(T element);
+        void Add(T element);
+        void Remove(int id);
+        void Update(T element);
     }
 }

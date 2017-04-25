@@ -30,5 +30,9 @@ namespace DataAccess
 
             return type;
         }
+
+        public void Add(TypeOfService breed) { }
+        public void Remove(int id) { }
+        public void Update(TypeOfService breed) { }
     }
 }

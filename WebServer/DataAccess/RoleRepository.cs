@@ -24,5 +24,9 @@ namespace DataAccess
 
             return role;
         }
+
+        public void Add(Role breed) { }
+        public void Remove(int id) { }
+        public void Update(Role breed) { }
     }
 }

@@ -31,10 +31,8 @@ namespace DataAccess
             return color;
         }
 
-        public void Add(Color color)
-        {
-            db.Colors.Add(color);
-            db.SaveChanges();
-        }
+        public void Add(Color breed) {}
+        public void Remove(int id) { }
+        public void Update(Color breed) { }
     }
 }

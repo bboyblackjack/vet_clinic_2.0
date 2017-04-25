@@ -11,6 +11,5 @@ namespace DesctopClient.Interfaces
     {
         void SaveUser(User user);
         void SavePet(Pet pet);
-
     }
 }
