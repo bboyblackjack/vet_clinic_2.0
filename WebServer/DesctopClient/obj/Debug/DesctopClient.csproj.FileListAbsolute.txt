@@ -14,3 +14,20 @@ C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesctopClient\bin\Debug\RestSharp.xml
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesctopClient\obj\Debug\DesctopClient.exe
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesctopClient\obj\Debug\DesctopClient.pdb
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesctopClient\obj\Debug\DesctopClient.csprojResolveAssemblyReference.cache
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesctopClient\obj\Debug\Views\AuthWindow.baml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesctopClient\obj\Debug\Views\MainWindow.baml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesctopClient\obj\Debug\Views\AuthWindow.g.cs
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesctopClient\obj\Debug\Views\MainWindow.g.cs
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesctopClient\obj\Debug\App.g.cs
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesctopClient\obj\Debug\DesctopClient_MarkupCompile.cache
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesctopClient\obj\Debug\DesctopClient.g.resources
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesctopClient\obj\Debug\DesctopClient.Properties.Resources.resources
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesctopClient\obj\Debug\DesctopClient.csproj.GenerateResource.Cache
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesctopClient\bin\Debug\DesctopClient.exe.config
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesctopClient\bin\Debug\DesctopClient.exe
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesctopClient\bin\Debug\DesctopClient.pdb
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesctopClient\bin\Debug\RestSharp.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesctopClient\bin\Debug\RestSharp.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesctopClient\obj\Debug\DesctopClient.exe
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesctopClient\obj\Debug\DesctopClient.pdb
