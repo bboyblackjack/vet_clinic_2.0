@@ -16,4 +16,3 @@ C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataModel\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
