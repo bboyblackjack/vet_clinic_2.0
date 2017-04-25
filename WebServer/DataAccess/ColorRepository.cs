@@ -31,8 +31,9 @@ namespace DataAccess
             return color;
         }
 
-        public void Add(Color breed) {}
+        public void Add(Color color) {
+        }
         public void Remove(int id) { }
-        public void Update(Color breed) { }
+        public void Update(Color color) { }
     }
 }

@@ -31,8 +31,8 @@ namespace DataAccess
             return service;
         }
 
-        public void Add(Service breed) { }
+        public void Add(Service service) { }
         public void Remove(int id) { }
-        public void Update(Service breed) { }
+        public void Update(Service service) { }
     }
 }

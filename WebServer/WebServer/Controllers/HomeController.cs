@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using DataAccess;
 using DataModel;
+using System.Data.Entity;
 
 namespace WebServer.Controllers
 {
@@ -12,7 +13,7 @@ namespace WebServer.Controllers
     {
         public ActionResult Index()
         {
-            ColorRepository _rep = new ColorRepository();
+            //Database.SetInitializer<DataContext>(new DbInitializer());
             return View();
         }
     }

@@ -14,11 +14,11 @@ namespace DataAccess
 {
     public class DataContext: DbContext
     {
-        public DataContext()
-            : base("VetClinicContext")
+        public DataContext(): base("Clinic2.0")
         {
-
+            Database.SetInitializer<DataContext>(new DbInitializer());
         }
+
         public DbSet<User> Users { get; set; }
         public DbSet<Role> Roles { get; set; }
         public DbSet<Kind> Kinds { get; set; }
