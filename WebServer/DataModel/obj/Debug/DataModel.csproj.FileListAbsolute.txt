@@ -1,0 +1,5 @@
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataModel\bin\Debug\DataModel.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataModel\bin\Debug\DataModel.pdb
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataModel\obj\Debug\DataModel.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataModel\obj\Debug\DataModel.pdb

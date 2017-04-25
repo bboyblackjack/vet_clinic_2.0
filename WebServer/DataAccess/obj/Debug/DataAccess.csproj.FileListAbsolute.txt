@@ -1,0 +1,12 @@
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataAccess\bin\Debug\DataAccess.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataAccess\bin\Debug\DataAccess.pdb
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataAccess\bin\Debug\DataModel.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataAccess\bin\Debug\EntityFramework.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataAccess\bin\Debug\DataModel.pdb
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataAccess\bin\Debug\EntityFramework.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataAccess\obj\Debug\DataAccess.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\5c3822b85eadd63ee9f9433a3166a10f0285a061\WebServer\DataAccess\obj\Debug\DataAccess.pdb
