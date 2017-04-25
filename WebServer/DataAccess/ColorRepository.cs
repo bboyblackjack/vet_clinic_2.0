@@ -30,5 +30,11 @@ namespace DataAccess
 
             return color;
         }
+
+        public void Add(Color color)
+        {
+            db.Colors.Add(color);
+            db.SaveChanges();
+        }
     }
 }

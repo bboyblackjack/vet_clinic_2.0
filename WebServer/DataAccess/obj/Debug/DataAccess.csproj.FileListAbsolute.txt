@@ -26,3 +26,19 @@ C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataAccess\obj\Debug\DataAccess.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataAccess\obj\Debug\DataAccess.pdb
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataAccess\bin\Debug\DataAccess.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataAccess\bin\Debug\DataAccess.pdb
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataAccess\bin\Debug\DataModel.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataAccess\bin\Debug\EntityFramework.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataAccess\bin\Debug\DataModel.pdb
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataAccess\bin\Debug\EntityFramework.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml

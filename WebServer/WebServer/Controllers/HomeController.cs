@@ -12,6 +12,11 @@ namespace WebServer.Controllers
     {
         public ActionResult Index()
         {
+            ColorRepository _rep = new ColorRepository();
+            _rep.Add(new Color
+                {
+                    Name = "Черный"
+                });
             return View();
         }
     }
