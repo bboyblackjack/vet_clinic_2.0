@@ -80,7 +80,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataModel\DataModel.csproj">
-      <Project>{bcfd2292-6e9f-4431-8644-400a2f9e18dc}</Project>
+      <Project>{482b6039-4687-47e2-bb4b-f226cd4dce2b}</Project>
       <Name>DataModel</Name>
     </ProjectReference>
   </ItemGroup>

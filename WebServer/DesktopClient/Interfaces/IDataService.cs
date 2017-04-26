@@ -9,7 +9,7 @@ namespace DesctopClient.Interfaces
 {
     public interface IDataService
     {
-        void SaveUser(User user);
+       // void SaveUser(User user);
         void SavePet(Pet pet);
 
     }

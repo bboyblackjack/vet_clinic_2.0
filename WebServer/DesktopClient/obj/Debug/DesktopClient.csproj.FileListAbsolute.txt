@@ -17,3 +17,11 @@ C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.csproj.GenerateResource.Cache
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.exe
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.pdb
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\DataModel.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\EntityFramework.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\DataModel.pdb
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\EntityFramework.xml
