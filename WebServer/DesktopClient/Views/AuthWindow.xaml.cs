@@ -1,9 +1,13 @@
-﻿using System.Windows;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Windows;
 using RestSharp;
 using DesktopClient.ViewModels;
 using DesktopClient.Services;
 
-namespace DesctopClient.Views
+namespace DesktopClient.Views
 {
     /// <summary>
     /// Логика взаимодействия для AuthWindow.xaml
@@ -19,10 +23,7 @@ namespace DesctopClient.Views
             _restClient = new RestClient("http://localhost:53444/");
         }
 
-        private void Login_OnClick(object sender, RoutedEventArgs e)
-        {
-            Auth(Login.Text, Password.Password);
-        }
+        
 
         private void Auth(string login, string password)
         {
@@ -50,6 +51,11 @@ namespace DesctopClient.Views
             {
                 Error.Visibility = Visibility.Visible;
             }
+        }
+
+        private void Login_OnClick(object sender, RoutedEventArgs e)
+        {
+            Auth(Login.Text, Password.Password);
         }
     }
 }

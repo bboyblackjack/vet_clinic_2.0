@@ -26,69 +26,69 @@ namespace DataAccess
             roleManager.Create(userRole);
             roleManager.Create(doctorRole);
 
-            ////управление пользователями 
-            //var userManager = new UserManager<User>(new UserStore<User>(context));
+            //управление пользователями 
+            var userManager = new UserManager<User>(new UserStore<User>(context));
 
-            ////создание пользователя 1
-            //var user1 = new User
-            //{
-            //    FirstName = "Иван",
-            //    MiddleName = "Юрьевич",
-            //    LastName = "Михайлушкин",
-            //    Email = "ivan@ya.ru",
-            //    Login = "ivan",
-            //    PhoneNumber = "89008008080"
-            //};
-            //string password = "ivan";
-            //var result = userManager.Create(user1, password);
+            //создание пользователя 1
+            var user1 = new User
+            {
+                FirstName = "Иван",
+                MiddleName = "Юрьевич",
+                LastName = "Михайлушкин",
+                Email = "ivan@ya.ru",
+                Login = "ivan",
+                PhoneNumber = "89008008080"
+            };
+            string password = "ivan";
+            var result = userManager.Create(user1, password);
 
-            ////если создание пользователя прошло успешно 
-            //if (result.Succeeded)
-            //{
-            //    //добавление роли
-            //    userManager.AddToRole(user1.Id, userRole.Name);
-            //}
+            //если создание пользователя прошло успешно 
+            if (result.Succeeded)
+            {
+                //добавление роли
+                userManager.AddToRole(user1.Id, userRole.Name);
+            }
 
-            ////создание пользователя 2
-            //var user2 = new User
-            //{
-            //    FirstName = "Кирилл",
-            //    MiddleName = "Геннадьевич",
-            //    LastName = "Виноградов",
-            //    Email = "kirill@ya.ru",
-            //    Login = "kirill",
-            //    PhoneNumber = "88005553535"
-            //};
-            //password = "kirill";
-            //result = userManager.Create(user2, password);
+            //создание пользователя 2
+            var user2 = new User
+            {
+                FirstName = "Кирилл",
+                MiddleName = "Геннадьевич",
+                LastName = "Виноградов",
+                Email = "kirill@ya.ru",
+                Login = "kirill",
+                PhoneNumber = "88005553535"
+            };
+            password = "kirill";
+            result = userManager.Create(user2, password);
 
-            ////если создание доктора прошло успешно
-            //if (result.Succeeded)
-            //{
-            //    //добавление роли
-            //    userManager.AddToRole(user2.Id, userRole.Name);
-            //}
+            //если создание доктора прошло успешно
+            if (result.Succeeded)
+            {
+                //добавление роли
+                userManager.AddToRole(user2.Id, userRole.Name);
+            }
 
-            ////создание доткора
-            //var doctor = new User
-            //{
-            //    UserName = "oleg@ya.ru",
-            //    FirstName = "Олег",
-            //    MiddleName = "Петрович",
-            //    LastName = "Шумилин",
-            //    Email = "oleg@ya.ru",
-            //    Login = "oleg",
-            //    PhoneNumber = "89008008888"
-            //};
-            //password = "oleg";
-            //result = userManager.Create(doctor, password);
+            //создание доткора
+            var doctor = new User
+            {
+                UserName = "oleg@ya.ru",
+                FirstName = "Олег",
+                MiddleName = "Петрович",
+                LastName = "Шумилин",
+                Email = "oleg@ya.ru",
+                Login = "oleg",
+                PhoneNumber = "89008008888"
+            };
+            password = "oleg";
+            result = userManager.Create(doctor, password);
 
-            ////если создание доктора прошло успешно
-            //if (result.Succeeded)
-            //{
-            //    //добавление роли
-            //    userManager.AddToRole(doctor.Id, doctorRole.Name);
-            //}
+            //если создание доктора прошло успешно
+            if (result.Succeeded)
+            {
+                //добавление роли
+                userManager.AddToRole(doctor.Id, doctorRole.Name);
+            }
 
             //-------------виды животных--------
             Kind k1 = new Kind { Name = "Птица" };

@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Windows.Navigation;
 using DesktopClient.ViewModels;
-//using DesktopClient.Views;
+using DesktopClient.Views;
+
 
 
 namespace DesktopClient.Navigation

@@ -1,4 +1,4 @@
-﻿<Window x:Class="DesctopClient.Views.AuthWindow"
+﻿<Window x:Class="DesktopClient.Views.AuthWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Вход" Height="300" Width="300" ResizeMode="NoResize">
@@ -27,8 +27,8 @@
             <PasswordBox Name="Password" Grid.Row="1" Grid.Column="1" Width="100" Margin="0 0 0 15"
                          VerticalAlignment="Center" HorizontalAlignment="Left"></PasswordBox>
 
-            <Button Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" IsDefault="True"
-                    HorizontalAlignment="Center" Click="Login_OnClick">Войти</Button>
+            <Button Grid.Row="2" Grid.Column="1" IsDefault="True"
+                    HorizontalAlignment="Center" Click="Login_OnClick" Margin="4,0.4,59.8,-0.2" Height="19" VerticalAlignment="Top">Войти</Button>
         </Grid>
     </Grid>
 </Window>

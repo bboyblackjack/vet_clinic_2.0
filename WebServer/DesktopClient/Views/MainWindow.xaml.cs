@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace DesctopClient.Views
+namespace DesktopClient.Views
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
@@ -21,7 +21,7 @@ namespace DesctopClient.Views
     {
         public MainWindow()
         {
-            InitializeComponent();
+            //InitializeComponent();
         }
     }
 }

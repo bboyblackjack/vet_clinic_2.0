@@ -1,13 +1,6 @@
-C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\DesktopClient.exe.config
-C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\DesktopClient.exe
-C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\DesktopClient.pdb
-C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\RestSharp.dll
-C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\RestSharp.xml
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.csprojResolveAssemblyReference.cache
-C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\obj\Debug\MainWindow.baml
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\obj\Debug\Views\AuthWindow.baml
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\obj\Debug\Views\MainWindow.baml
-C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\obj\Debug\MainWindow.g.cs
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\obj\Debug\Views\AuthWindow.g.cs
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\obj\Debug\Views\MainWindow.g.cs
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\obj\Debug\App.g.cs
@@ -15,47 +8,18 @@ C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.g.resources
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.Properties.Resources.resources
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.csproj.GenerateResource.Cache
-C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.exe
-C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.pdb
-<<<<<<< HEAD
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\DesktopClient.exe.config
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\DesktopClient.exe
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\DesktopClient.pdb
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\DataModel.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\RestSharp.dll
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\EntityFramework.dll
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\DataModel.pdb
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\RestSharp.xml
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\EntityFramework.xml
-=======
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\obj\Debug\MainWindow.baml
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\obj\Debug\Views\AuthWindow.baml
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\obj\Debug\Views\MainWindow.baml
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\obj\Debug\MainWindow.g.cs
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\obj\Debug\Views\AuthWindow.g.cs
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\obj\Debug\Views\MainWindow.g.cs
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\obj\Debug\App.g.cs
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\obj\Debug\DesktopClient_MarkupCompile.cache
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.g.resources
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.Properties.Resources.resources
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.csproj.GenerateResource.Cache
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.csprojResolveAssemblyReference.cache
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\bin\Debug\DesktopClient.exe.config
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\bin\Debug\DesktopClient.exe
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\bin\Debug\DesktopClient.pdb
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\bin\Debug\DataModel.dll
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\bin\Debug\EntityFramework.dll
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\bin\Debug\EntityFramework.SqlServer.dll
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\bin\Debug\RestSharp.dll
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\bin\Debug\DataModel.pdb
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\bin\Debug\EntityFramework.xml
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\bin\Debug\EntityFramework.SqlServer.xml
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\bin\Debug\RestSharp.xml
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.exe
-D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.pdb
->>>>>>> de40aa9bccedf9f4d03234a40537b55d4fe8996e
-C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.exe
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.pdb
