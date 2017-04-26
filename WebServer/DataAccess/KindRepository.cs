@@ -30,5 +30,9 @@ namespace DataAccess
 
             return kind;
         }
+
+        public void Add(Kind kind) { }
+        public void Remove(int id) { }
+        public void Update(Kind kind) { }
     }
 }

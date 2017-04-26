@@ -30,5 +30,10 @@ namespace DataAccess
 
             return breed;
         }
+
+        public void Add(Breed breed){}
+        public void Remove(int id){}
+        public void Update(Breed breed){}
+        
     }
 }

@@ -30,5 +30,9 @@ namespace DataAccess
 
             return time;
         }
+
+        public void Add(Time time) { }
+        public void Remove(int id) { }
+        public void Update(Time time) { }
     }
 }
