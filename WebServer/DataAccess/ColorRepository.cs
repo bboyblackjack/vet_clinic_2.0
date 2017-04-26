@@ -32,6 +32,8 @@ namespace DataAccess
         }
 
         public void Add(Color color) {
+            db.Colors.Add(color);
+            db.SaveChanges();
         }
         public void Remove(int id) { }
         public void Update(Color color) { }

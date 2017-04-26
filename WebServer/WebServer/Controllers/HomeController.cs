@@ -13,7 +13,9 @@ namespace WebServer.Controllers
     {
         public ActionResult Index()
         {
-            //Database.SetInitializer<DataContext>(new DbInitializer());
+            Database.SetInitializer<DataContext>(new DbInitializer());
+            //IRepository<Color> _rep = new ColorRepository();
+            //_rep.Add(new Color { Name = "Хуевый" });
             return View();
         }
     }
