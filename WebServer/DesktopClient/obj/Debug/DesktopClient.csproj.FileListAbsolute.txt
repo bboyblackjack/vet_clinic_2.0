@@ -57,3 +57,5 @@ D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. С�
 D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.exe
 D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_2.0\vet_clinic_2.0\WebServer\DesktopClient\obj\Debug\DesktopClient.pdb
 >>>>>>> de40aa9bccedf9f4d03234a40537b55d4fe8996e
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DesktopClient\bin\Debug\EntityFramework.SqlServer.xml

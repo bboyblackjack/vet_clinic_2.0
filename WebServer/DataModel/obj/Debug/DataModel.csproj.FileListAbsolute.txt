@@ -11,3 +11,4 @@ C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataModel\obj\Debug\DataModel.dll
 C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataModel\obj\Debug\DataModel.pdb
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\VetClinic 2.0\WebServer\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
